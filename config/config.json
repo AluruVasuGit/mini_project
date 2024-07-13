@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "vasu",
+    "password": null,
+    "database": "Attendance_System",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "vasu",
+    "password": null,
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "vasu",
+    "password": null,
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
